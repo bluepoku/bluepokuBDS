@@ -1,0 +1,11 @@
+name: "BDS-516 Michael Adjei-Poku"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Michael Adjei-Poku"
+      href: Adjei-Poku.html
